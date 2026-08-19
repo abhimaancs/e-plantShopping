@@ -1,6 +1,6 @@
 function AboutUs() {
     return (
-        <div className="about-page">
+        <div className="about-us-container">
             <h1>About Paradise Nursery</h1>
 
             <p>
@@ -14,8 +14,8 @@ function AboutUs() {
             </p>
 
             <p>
-                Our goal is to make it easy for everyone to discover, choose, and
-                enjoy plants in their everyday spaces.
+                Our mission is to make it easy for everyone to discover, choose,
+                and enjoy plants in their everyday spaces.
             </p>
         </div>
     );

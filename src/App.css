@@ -57,19 +57,19 @@ body {
   background-color: #388e3c;
 }
 
-.about-page {
+.about-us-container {
   min-height: 100vh;
   padding: 80px;
   background-color: #f5f9f3;
   color: #263d26;
 }
 
-.about-page h1 {
+.about-us-container h1 {
   font-size: 42px;
   margin-bottom: 30px;
 }
 
-.about-page p {
+.about-us-container p {
   max-width: 800px;
   font-size: 18px;
   line-height: 1.7;
